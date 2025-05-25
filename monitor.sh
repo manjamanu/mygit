@@ -5,7 +5,7 @@
 # Date: $(date +%Y-%m-%d)
 
 # Output log file
-LOG_FILE="/var/log/server_monitor.log"
+LOG_FILE="/var/log/messages"
 
 # Ensure log file exists
 touch "$LOG_FILE"
