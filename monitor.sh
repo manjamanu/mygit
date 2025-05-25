@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Basic Linux Server Monitoring Script
-# Author: Your Name
+# Author: Manoj
 # Date: $(date +%Y-%m-%d)
 
 # Output log file
